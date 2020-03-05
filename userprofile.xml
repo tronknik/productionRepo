@@ -1,0 +1,19 @@
+<users>
+    <user name="user1">
+        <roles>
+            <role>
+                Admin
+            </role>
+            <role>
+                User
+            </role>
+        </roles>
+    </user>
+    <user name="user2">
+        <roles>
+            <role>
+                User
+            </role>
+        </roles>
+    </user>
+</users>
