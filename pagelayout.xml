@@ -1,0 +1,7 @@
+<page name="page1">
+ <button name="button1" color="red">
+</page>
+<page name="page2">
+ <button name="button1" color="green">
+ <button name="button2" color="blue">
+</page>
