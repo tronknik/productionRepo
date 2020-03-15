@@ -6,3 +6,7 @@ data5
 data6
 data7
 data8
+<<<<<<< HEAD
+=======
+data9
+>>>>>>> d8541791c8f308e8a32b99959c7ad64d7636c513
